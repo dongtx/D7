@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Common\D7.ModeledKnowledge.Infrastructure.Formula\D7.ModeledKnowledge.Infrastructure.Formula.csproj" />
+    <ProjectReference Include="..\Library\D7.ModeledKnowledge.Infrastructure.Formula\D7.ModeledKnowledge.Infrastructure.Formula.csproj" />
   </ItemGroup>
 
 </Project>
